@@ -8,7 +8,7 @@ Designed to be simple, user friendly, and responsive, and easy to deploy.
 
 ## Demo
 
-> Live demo: **`<ADD YOUR DEPLOYED URL HERE>`** (optional)
+> Live demo: **`https://feedback-board-app-c4kw.vercel.app/`**
 
 ## Table of contents
 
@@ -50,7 +50,7 @@ Authentication is **not required** — everything is public and simple by design
 - Toasters via `sonner` for UX feedback
 - Click spark effect (global click animation)
 
-## 🛠 Tech stack
+## Tech stack
 
 - Frontend: **Next.js (App Router)**, React, TailwindCSS, and [shadcn/ui]
 - Backend/API: **Next.js API routes** (App Router, route handlers)
